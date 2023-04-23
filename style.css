@@ -1,0 +1,40 @@
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width:50%;
+    text_align: center;
+}
+
+img:hover{
+    border_radius: 1px;
+}
+
+html, body{
+    background-image: linear-gradient(to right top, 
+    rgb(0, 191, 255),
+    rgb(82, 225, 253),
+    rgb(144, 228, 251)
+    rgb(200, 232, 248)
+    white);
+}
+
+#result1{
+    border-radius: 2px;
+    height: 30px;
+    width: ;
+    border-color: rgb(39, 39, 39);
+}
+
+#result2 {
+    border-radius: 2px;
+    height: 3%;
+    width: 3%;
+    border-color: rgb(37, 37, 37);
+}
+
+#result3 {
+    border-radius: 2px;
+    border-color: rgb(54, 54, 54);
+    height: 3%;
+    width: 3%;
+}
